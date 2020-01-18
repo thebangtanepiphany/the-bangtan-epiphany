@@ -6,6 +6,51 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background: linear-gradient(#f77599, #3d80c2);
+  padding-top: 20px;
+}
+
+header {
+  background-color: rgba(227, 227, 227, 0.3);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+header ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  justify-content: space-around;
+}
+
+header ul li {
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+header ul li a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+footer {
+  background-color: rgb(0, 0, 0);
+  box-sizing: border-box;
+  display: inline-flex;
+  font-size: 16px;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+}
+
+footer .social a {
+  display: block;
+  height: 24px;
+  width: 24px;
 }
 
 section {
@@ -13,15 +58,8 @@ section {
   min-height: 100vh;
 }
 
-section:nth-child(1) {
-  background-color: rgba(128, 0, 128, 0.3);
-}
-section:nth-child(2) {
-  background-color: rgba(128, 0, 128, 0.6);
-}
-section:nth-child(3) {
-  background-color: rgba(128, 0, 128, 0.9);
-}
+/* PERSONA #f77599 */
+/* SEVEN   #3d80c2 */
 
 .link {
   color: #09d3ac;
