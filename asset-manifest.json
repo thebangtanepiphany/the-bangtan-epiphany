@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.afd38718.chunk.css",
-    "main.js": "/static/js/main.1048b42e.chunk.js",
-    "main.js.map": "/static/js/main.1048b42e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83f91491.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83f91491.js.map",
-    "static/js/2.46ff68a5.chunk.js": "/static/js/2.46ff68a5.chunk.js",
-    "static/js/2.46ff68a5.chunk.js.map": "/static/js/2.46ff68a5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9320186feca00337edc36eb70ee33136.js": "/precache-manifest.9320186feca00337edc36eb70ee33136.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.afd38718.chunk.css.map": "/static/css/main.afd38718.chunk.css.map",
-    "static/js/2.46ff68a5.chunk.js.LICENSE": "/static/js/2.46ff68a5.chunk.js.LICENSE",
-    "static/media/twitter-hover.svg": "/static/media/twitter-hover.c2f1acf6.svg",
-    "static/media/twitter.svg": "/static/media/twitter.4fd53812.svg"
+    "main.css": "/the-bangtan-epiphany/static/css/main.afd38718.chunk.css",
+    "main.js": "/the-bangtan-epiphany/static/js/main.dbf237c8.chunk.js",
+    "main.js.map": "/the-bangtan-epiphany/static/js/main.dbf237c8.chunk.js.map",
+    "runtime-main.js": "/the-bangtan-epiphany/static/js/runtime-main.35556a62.js",
+    "runtime-main.js.map": "/the-bangtan-epiphany/static/js/runtime-main.35556a62.js.map",
+    "static/js/2.46ff68a5.chunk.js": "/the-bangtan-epiphany/static/js/2.46ff68a5.chunk.js",
+    "static/js/2.46ff68a5.chunk.js.map": "/the-bangtan-epiphany/static/js/2.46ff68a5.chunk.js.map",
+    "index.html": "/the-bangtan-epiphany/index.html",
+    "precache-manifest.0dda71fa296284d72b55187499b7eb18.js": "/the-bangtan-epiphany/precache-manifest.0dda71fa296284d72b55187499b7eb18.js",
+    "service-worker.js": "/the-bangtan-epiphany/service-worker.js",
+    "static/css/main.afd38718.chunk.css.map": "/the-bangtan-epiphany/static/css/main.afd38718.chunk.css.map",
+    "static/js/2.46ff68a5.chunk.js.LICENSE": "/the-bangtan-epiphany/static/js/2.46ff68a5.chunk.js.LICENSE",
+    "static/media/twitter-hover.svg": "/the-bangtan-epiphany/static/media/twitter-hover.c2f1acf6.svg",
+    "static/media/twitter.svg": "/the-bangtan-epiphany/static/media/twitter.4fd53812.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83f91491.js",
+    "static/js/runtime-main.35556a62.js",
     "static/js/2.46ff68a5.chunk.js",
     "static/css/main.afd38718.chunk.css",
-    "static/js/main.1048b42e.chunk.js"
+    "static/js/main.dbf237c8.chunk.js"
   ]
 }
