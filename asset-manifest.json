@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/thebangtanepiphany/the-bangtan-epiphany.git/static/css/main.afd38718.chunk.css",
-    "main.js": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/main.bc7ff66c.chunk.js",
-    "main.js.map": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/main.bc7ff66c.chunk.js.map",
-    "runtime-main.js": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/runtime-main.62f2fff0.js",
-    "runtime-main.js.map": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/runtime-main.62f2fff0.js.map",
-    "static/js/2.46ff68a5.chunk.js": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/2.46ff68a5.chunk.js",
-    "static/js/2.46ff68a5.chunk.js.map": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/2.46ff68a5.chunk.js.map",
-    "index.html": "/thebangtanepiphany/the-bangtan-epiphany.git/index.html",
-    "precache-manifest.a87d6704367b0ea9c4e5846143bd6c1a.js": "/thebangtanepiphany/the-bangtan-epiphany.git/precache-manifest.a87d6704367b0ea9c4e5846143bd6c1a.js",
-    "service-worker.js": "/thebangtanepiphany/the-bangtan-epiphany.git/service-worker.js",
-    "static/css/main.afd38718.chunk.css.map": "/thebangtanepiphany/the-bangtan-epiphany.git/static/css/main.afd38718.chunk.css.map",
-    "static/js/2.46ff68a5.chunk.js.LICENSE": "/thebangtanepiphany/the-bangtan-epiphany.git/static/js/2.46ff68a5.chunk.js.LICENSE",
-    "static/media/twitter-hover.svg": "/thebangtanepiphany/the-bangtan-epiphany.git/static/media/twitter-hover.c2f1acf6.svg",
-    "static/media/twitter.svg": "/thebangtanepiphany/the-bangtan-epiphany.git/static/media/twitter.4fd53812.svg"
+    "main.css": "/static/css/main.afd38718.chunk.css",
+    "main.js": "/static/js/main.1048b42e.chunk.js",
+    "main.js.map": "/static/js/main.1048b42e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83f91491.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83f91491.js.map",
+    "static/js/2.46ff68a5.chunk.js": "/static/js/2.46ff68a5.chunk.js",
+    "static/js/2.46ff68a5.chunk.js.map": "/static/js/2.46ff68a5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9320186feca00337edc36eb70ee33136.js": "/precache-manifest.9320186feca00337edc36eb70ee33136.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.afd38718.chunk.css.map": "/static/css/main.afd38718.chunk.css.map",
+    "static/js/2.46ff68a5.chunk.js.LICENSE": "/static/js/2.46ff68a5.chunk.js.LICENSE",
+    "static/media/twitter-hover.svg": "/static/media/twitter-hover.c2f1acf6.svg",
+    "static/media/twitter.svg": "/static/media/twitter.4fd53812.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62f2fff0.js",
+    "static/js/runtime-main.83f91491.js",
     "static/js/2.46ff68a5.chunk.js",
     "static/css/main.afd38718.chunk.css",
-    "static/js/main.bc7ff66c.chunk.js"
+    "static/js/main.1048b42e.chunk.js"
   ]
 }
