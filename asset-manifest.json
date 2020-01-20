@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.897ddc23.chunk.css",
-    "main.js": "/static/js/main.6572117f.chunk.js",
-    "main.js.map": "/static/js/main.6572117f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.59adef9e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.59adef9e.js.map",
-    "static/css/2.64a99b10.chunk.css": "/static/css/2.64a99b10.chunk.css",
-    "static/js/2.f6e9c3eb.chunk.js": "/static/js/2.f6e9c3eb.chunk.js",
-    "static/js/2.f6e9c3eb.chunk.js.map": "/static/js/2.f6e9c3eb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.40e7203baf107fdb05e5659807c4e378.js": "/precache-manifest.40e7203baf107fdb05e5659807c4e378.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.897ddc23.chunk.css.map": "/static/css/main.897ddc23.chunk.css.map",
-    "static/media/bangtan-img.png": "/static/media/bangtan-img.1fbf319c.png",
-    "static/media/emily.png": "/static/media/emily.d7d3468b.png",
-    "static/media/rocky.png": "/static/media/rocky.34f3e6af.png",
-    "static/media/twitter-hover.svg": "/static/media/twitter-hover.c2f1acf6.svg",
-    "static/media/twitter.svg": "/static/media/twitter.b276254c.svg"
+    "main.css": "/thebangtanepiphany/the-bangtan-epiphany/static/css/main.897ddc23.chunk.css",
+    "main.js": "/thebangtanepiphany/the-bangtan-epiphany/static/js/main.b33c346f.chunk.js",
+    "main.js.map": "/thebangtanepiphany/the-bangtan-epiphany/static/js/main.b33c346f.chunk.js.map",
+    "runtime-main.js": "/thebangtanepiphany/the-bangtan-epiphany/static/js/runtime-main.3a6ff61e.js",
+    "runtime-main.js.map": "/thebangtanepiphany/the-bangtan-epiphany/static/js/runtime-main.3a6ff61e.js.map",
+    "static/css/2.64a99b10.chunk.css": "/thebangtanepiphany/the-bangtan-epiphany/static/css/2.64a99b10.chunk.css",
+    "static/js/2.f6e9c3eb.chunk.js": "/thebangtanepiphany/the-bangtan-epiphany/static/js/2.f6e9c3eb.chunk.js",
+    "static/js/2.f6e9c3eb.chunk.js.map": "/thebangtanepiphany/the-bangtan-epiphany/static/js/2.f6e9c3eb.chunk.js.map",
+    "index.html": "/thebangtanepiphany/the-bangtan-epiphany/index.html",
+    "precache-manifest.5acdc3519149b25587466f6ff47b7e95.js": "/thebangtanepiphany/the-bangtan-epiphany/precache-manifest.5acdc3519149b25587466f6ff47b7e95.js",
+    "service-worker.js": "/thebangtanepiphany/the-bangtan-epiphany/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/thebangtanepiphany/the-bangtan-epiphany/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.897ddc23.chunk.css.map": "/thebangtanepiphany/the-bangtan-epiphany/static/css/main.897ddc23.chunk.css.map",
+    "static/media/bangtan-img.png": "/thebangtanepiphany/the-bangtan-epiphany/static/media/bangtan-img.1fbf319c.png",
+    "static/media/emily.png": "/thebangtanepiphany/the-bangtan-epiphany/static/media/emily.d7d3468b.png",
+    "static/media/rocky.png": "/thebangtanepiphany/the-bangtan-epiphany/static/media/rocky.34f3e6af.png",
+    "static/media/twitter-hover.svg": "/thebangtanepiphany/the-bangtan-epiphany/static/media/twitter-hover.c2f1acf6.svg",
+    "static/media/twitter.svg": "/thebangtanepiphany/the-bangtan-epiphany/static/media/twitter.b276254c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59adef9e.js",
+    "static/js/runtime-main.3a6ff61e.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.f6e9c3eb.chunk.js",
     "static/css/main.897ddc23.chunk.css",
-    "static/js/main.6572117f.chunk.js"
+    "static/js/main.b33c346f.chunk.js"
   ]
 }
