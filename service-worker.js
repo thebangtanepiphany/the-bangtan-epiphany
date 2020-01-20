@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thebangtanepiphany.com/precache-manifest.103cfa3849e1ddaf66f5a06e5209e9d5.js"
+  "/thebangtanepiphany.com/precache-manifest.fdb11b5ce6f6accd4681481d02e7b943.js"
 );
 
 self.addEventListener('message', (event) => {

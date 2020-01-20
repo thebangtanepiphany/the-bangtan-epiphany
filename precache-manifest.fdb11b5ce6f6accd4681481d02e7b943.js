@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4540b62360dbd24300ac6961142d1e57",
+    "revision": "b03601ef65e19d11503222289cdfe06f",
     "url": "/thebangtanepiphany.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thebangtanepiphany.com/static/css/2.64a99b10.chunk.css"
   },
   {
-    "revision": "97de9b17193143c7999f",
+    "revision": "e43bb269d75371339ca6",
     "url": "/thebangtanepiphany.com/static/css/main.897ddc23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thebangtanepiphany.com/static/js/2.f6e9c3eb.chunk.js"
   },
   {
-    "revision": "97de9b17193143c7999f",
-    "url": "/thebangtanepiphany.com/static/js/main.9827e7ac.chunk.js"
+    "revision": "e43bb269d75371339ca6",
+    "url": "/thebangtanepiphany.com/static/js/main.b91ff80f.chunk.js"
   },
   {
     "revision": "d9854486674a0c8f4d53",

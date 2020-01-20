@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thebangtanepiphany.com/static/css/main.897ddc23.chunk.css",
-    "main.js": "/thebangtanepiphany.com/static/js/main.9827e7ac.chunk.js",
-    "main.js.map": "/thebangtanepiphany.com/static/js/main.9827e7ac.chunk.js.map",
+    "main.js": "/thebangtanepiphany.com/static/js/main.b91ff80f.chunk.js",
+    "main.js.map": "/thebangtanepiphany.com/static/js/main.b91ff80f.chunk.js.map",
     "runtime-main.js": "/thebangtanepiphany.com/static/js/runtime-main.6a4a155f.js",
     "runtime-main.js.map": "/thebangtanepiphany.com/static/js/runtime-main.6a4a155f.js.map",
     "static/css/2.64a99b10.chunk.css": "/thebangtanepiphany.com/static/css/2.64a99b10.chunk.css",
     "static/js/2.f6e9c3eb.chunk.js": "/thebangtanepiphany.com/static/js/2.f6e9c3eb.chunk.js",
     "static/js/2.f6e9c3eb.chunk.js.map": "/thebangtanepiphany.com/static/js/2.f6e9c3eb.chunk.js.map",
     "index.html": "/thebangtanepiphany.com/index.html",
-    "precache-manifest.103cfa3849e1ddaf66f5a06e5209e9d5.js": "/thebangtanepiphany.com/precache-manifest.103cfa3849e1ddaf66f5a06e5209e9d5.js",
+    "precache-manifest.fdb11b5ce6f6accd4681481d02e7b943.js": "/thebangtanepiphany.com/precache-manifest.fdb11b5ce6f6accd4681481d02e7b943.js",
     "service-worker.js": "/thebangtanepiphany.com/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/thebangtanepiphany.com/static/css/2.64a99b10.chunk.css.map",
     "static/css/main.897ddc23.chunk.css.map": "/thebangtanepiphany.com/static/css/main.897ddc23.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.f6e9c3eb.chunk.js",
     "static/css/main.897ddc23.chunk.css",
-    "static/js/main.9827e7ac.chunk.js"
+    "static/js/main.b91ff80f.chunk.js"
   ]
 }
