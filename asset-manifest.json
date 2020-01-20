@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/the-bangtan-epiphany/static/css/main.897ddc23.chunk.css",
-    "main.js": "/the-bangtan-epiphany/static/js/main.efc7e83a.chunk.js",
-    "main.js.map": "/the-bangtan-epiphany/static/js/main.efc7e83a.chunk.js.map",
-    "runtime-main.js": "/the-bangtan-epiphany/static/js/runtime-main.ec9d0bc1.js",
-    "runtime-main.js.map": "/the-bangtan-epiphany/static/js/runtime-main.ec9d0bc1.js.map",
-    "static/css/2.64a99b10.chunk.css": "/the-bangtan-epiphany/static/css/2.64a99b10.chunk.css",
-    "static/js/2.f6e9c3eb.chunk.js": "/the-bangtan-epiphany/static/js/2.f6e9c3eb.chunk.js",
-    "static/js/2.f6e9c3eb.chunk.js.map": "/the-bangtan-epiphany/static/js/2.f6e9c3eb.chunk.js.map",
-    "index.html": "/the-bangtan-epiphany/index.html",
-    "precache-manifest.53a67b0903deb8fa2454220c122832df.js": "/the-bangtan-epiphany/precache-manifest.53a67b0903deb8fa2454220c122832df.js",
-    "service-worker.js": "/the-bangtan-epiphany/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/the-bangtan-epiphany/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.897ddc23.chunk.css.map": "/the-bangtan-epiphany/static/css/main.897ddc23.chunk.css.map",
-    "static/media/bangtan-img.png": "/the-bangtan-epiphany/static/media/bangtan-img.1fbf319c.png",
-    "static/media/emily.png": "/the-bangtan-epiphany/static/media/emily.d7d3468b.png",
-    "static/media/rocky.png": "/the-bangtan-epiphany/static/media/rocky.34f3e6af.png",
-    "static/media/twitter-hover.svg": "/the-bangtan-epiphany/static/media/twitter-hover.c2f1acf6.svg",
-    "static/media/twitter.svg": "/the-bangtan-epiphany/static/media/twitter.b276254c.svg"
+    "main.css": "/static/css/main.897ddc23.chunk.css",
+    "main.js": "/static/js/main.6572117f.chunk.js",
+    "main.js.map": "/static/js/main.6572117f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59adef9e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59adef9e.js.map",
+    "static/css/2.64a99b10.chunk.css": "/static/css/2.64a99b10.chunk.css",
+    "static/js/2.f6e9c3eb.chunk.js": "/static/js/2.f6e9c3eb.chunk.js",
+    "static/js/2.f6e9c3eb.chunk.js.map": "/static/js/2.f6e9c3eb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.40e7203baf107fdb05e5659807c4e378.js": "/precache-manifest.40e7203baf107fdb05e5659807c4e378.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.897ddc23.chunk.css.map": "/static/css/main.897ddc23.chunk.css.map",
+    "static/media/bangtan-img.png": "/static/media/bangtan-img.1fbf319c.png",
+    "static/media/emily.png": "/static/media/emily.d7d3468b.png",
+    "static/media/rocky.png": "/static/media/rocky.34f3e6af.png",
+    "static/media/twitter-hover.svg": "/static/media/twitter-hover.c2f1acf6.svg",
+    "static/media/twitter.svg": "/static/media/twitter.b276254c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec9d0bc1.js",
+    "static/js/runtime-main.59adef9e.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.f6e9c3eb.chunk.js",
     "static/css/main.897ddc23.chunk.css",
-    "static/js/main.efc7e83a.chunk.js"
+    "static/js/main.6572117f.chunk.js"
   ]
 }
