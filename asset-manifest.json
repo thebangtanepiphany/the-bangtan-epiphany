@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/the-bangtan-epiphany/static/css/main.afd38718.chunk.css",
-    "main.js": "/the-bangtan-epiphany/static/js/main.dbf237c8.chunk.js",
-    "main.js.map": "/the-bangtan-epiphany/static/js/main.dbf237c8.chunk.js.map",
-    "runtime-main.js": "/the-bangtan-epiphany/static/js/runtime-main.35556a62.js",
-    "runtime-main.js.map": "/the-bangtan-epiphany/static/js/runtime-main.35556a62.js.map",
-    "static/js/2.46ff68a5.chunk.js": "/the-bangtan-epiphany/static/js/2.46ff68a5.chunk.js",
-    "static/js/2.46ff68a5.chunk.js.map": "/the-bangtan-epiphany/static/js/2.46ff68a5.chunk.js.map",
-    "index.html": "/the-bangtan-epiphany/index.html",
-    "precache-manifest.0dda71fa296284d72b55187499b7eb18.js": "/the-bangtan-epiphany/precache-manifest.0dda71fa296284d72b55187499b7eb18.js",
-    "service-worker.js": "/the-bangtan-epiphany/service-worker.js",
-    "static/css/main.afd38718.chunk.css.map": "/the-bangtan-epiphany/static/css/main.afd38718.chunk.css.map",
-    "static/js/2.46ff68a5.chunk.js.LICENSE": "/the-bangtan-epiphany/static/js/2.46ff68a5.chunk.js.LICENSE",
-    "static/media/twitter-hover.svg": "/the-bangtan-epiphany/static/media/twitter-hover.c2f1acf6.svg",
-    "static/media/twitter.svg": "/the-bangtan-epiphany/static/media/twitter.4fd53812.svg"
+    "main.css": "/thebangtanepiphany.com/static/css/main.897ddc23.chunk.css",
+    "main.js": "/thebangtanepiphany.com/static/js/main.9827e7ac.chunk.js",
+    "main.js.map": "/thebangtanepiphany.com/static/js/main.9827e7ac.chunk.js.map",
+    "runtime-main.js": "/thebangtanepiphany.com/static/js/runtime-main.6a4a155f.js",
+    "runtime-main.js.map": "/thebangtanepiphany.com/static/js/runtime-main.6a4a155f.js.map",
+    "static/css/2.64a99b10.chunk.css": "/thebangtanepiphany.com/static/css/2.64a99b10.chunk.css",
+    "static/js/2.f6e9c3eb.chunk.js": "/thebangtanepiphany.com/static/js/2.f6e9c3eb.chunk.js",
+    "static/js/2.f6e9c3eb.chunk.js.map": "/thebangtanepiphany.com/static/js/2.f6e9c3eb.chunk.js.map",
+    "index.html": "/thebangtanepiphany.com/index.html",
+    "precache-manifest.103cfa3849e1ddaf66f5a06e5209e9d5.js": "/thebangtanepiphany.com/precache-manifest.103cfa3849e1ddaf66f5a06e5209e9d5.js",
+    "service-worker.js": "/thebangtanepiphany.com/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/thebangtanepiphany.com/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.897ddc23.chunk.css.map": "/thebangtanepiphany.com/static/css/main.897ddc23.chunk.css.map",
+    "static/media/bangtan-img.png": "/thebangtanepiphany.com/static/media/bangtan-img.1fbf319c.png",
+    "static/media/emily.png": "/thebangtanepiphany.com/static/media/emily.d7d3468b.png",
+    "static/media/rocky.png": "/thebangtanepiphany.com/static/media/rocky.34f3e6af.png",
+    "static/media/twitter-hover.svg": "/thebangtanepiphany.com/static/media/twitter-hover.c2f1acf6.svg",
+    "static/media/twitter.svg": "/thebangtanepiphany.com/static/media/twitter.b276254c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.35556a62.js",
-    "static/js/2.46ff68a5.chunk.js",
-    "static/css/main.afd38718.chunk.css",
-    "static/js/main.dbf237c8.chunk.js"
+    "static/js/runtime-main.6a4a155f.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.f6e9c3eb.chunk.js",
+    "static/css/main.897ddc23.chunk.css",
+    "static/js/main.9827e7ac.chunk.js"
   ]
 }
