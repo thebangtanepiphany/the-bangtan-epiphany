@@ -4,37 +4,18 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
   background: linear-gradient(#f77599, #3d80c2);
-  padding-top: 20px;
+  font-size: 1.5rem;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
-header {
-  background-color: rgba(227, 227, 227, 0.3);
-  position: fixed;
-  top: 0;
-  width: 100%;
+.navbar {
+  background-color:#d0e6fb;
 }
 
-header ul {
-  display: flex;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  justify-content: space-around;
-}
-
-header ul li {
-  display: inline-block;
-  font-size: 16px;
-  margin: 10px 0;
-}
-
-header ul li a {
-  color: white;
-  text-decoration: none;
-  text-transform: uppercase;
+.nav-link {
+  padding: 0.2rem 1rem;
+  font-weight: bold;
 }
 
 footer {
@@ -45,17 +26,26 @@ footer {
   justify-content: space-between;
   padding: 10px;
   width: 100%;
+  color: white;
 }
 
-footer .social a {
+.spacer {
+  height: 100px;
+}
+
+.social {
   display: block;
-  height: 24px;
-  width: 24px;
+  height: 30px;
+  width: 30px;
+}
+
+.navbar-brand img {
+  height: 30px;
+  width: 30px;
 }
 
 section {
   width: 100%;
-  min-height: 100vh;
 }
 
 /* PERSONA #f77599 */
@@ -63,4 +53,13 @@ section {
 
 .link {
   color: #09d3ac;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 30px;
+}
+
+h1, h2, h3 {
+  margin-bottom: 30px !important;
 }
