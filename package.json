@@ -2,7 +2,7 @@
   "name": "the-bangtan-epiphany",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thebangtanepiphany.com",
+  "homepage": "https://github.com/thebangtanepiphany/the-bangtan-epiphany",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.1.1",
