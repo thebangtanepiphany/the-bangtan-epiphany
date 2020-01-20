@@ -43,11 +43,11 @@ function App() {
       <section className="header container">
         <div className="spacer"></div>
         <h1>The Bangtan Epiphany Podcast</h1>
-        <div class="card">
+        <div className="card">
           <img src={bangimg} className="card-img-top" alt="The Bangtan Epiphany Podcast" />
-          <div class="card-body">
-            <h3 class="card-title">Falling into BTS</h3>
-            <p class="card-text">Join married 30-somethings Rocky and Emily as we start to descend down the BTS rabbit hole, diving deep into the Bangtan Universe, exploring themes, culture, and stories created by this infectiously charming and surprisingly profound Korean idol group. We’ll review all the media and music, from debut till today, including their variety and reality shows, interviews, albums, mixtapes, social media, live shows, and MVs. We’re curious about culture, music, art, and storytelling and we’re opening our minds to the unexpectedly intense and endlessly delightful experience of being ARMY. </p>
+          <div className="card-body">
+            <h3 className="card-title">Falling into BTS</h3>
+            <p className="card-text">Join married 30-somethings Rocky and Emily as we start to descend down the BTS rabbit hole, diving deep into the Bangtan Universe, exploring themes, culture, and stories created by this infectiously charming and surprisingly profound Korean idol group. We’ll review all the media and music, from debut till today, including their variety and reality shows, interviews, albums, mixtapes, social media, live shows, and MVs. We’re curious about culture, music, art, and storytelling and we’re opening our minds to the unexpectedly intense and endlessly delightful experience of being ARMY. </p>
             <button>Podcast links here</button>
           </div>
         </div>
@@ -58,14 +58,14 @@ function App() {
         <div className="card-deck">
           <div className="card bg-light">
             <img className="card-img-top about-img img-fluid image-responsive" alt="Emily" src={em} />
-            <div class="card-body">
-              <p class="card-text">Emily is a programmer, writer, and proud ARMY circa March 9, 2019 &#128521;. She loves to talk about culture, art, music... really just about anything. She may or may not be an immortal vampire.</p>
+            <div className="card-body">
+              <p className="card-text">Emily is a programmer, writer, and proud ARMY circa March 9, 2019 &#128521;. She loves to talk about culture, art, music... really just about anything. She may or may not be an immortal vampire.</p>
             </div>
           </div>
           <div className="card bg-light">
             <img className="card-img-top about-img img-fluid image-responsive" alt="Rocky" src={rk} />
-            <div class="card-body">
-              <p class="card-text">Rocky is a programmer, gamer and baby ARMY. He loves music and finding those deeper meanings.</p>
+            <div className="card-body">
+              <p className="card-text">Rocky is a programmer, gamer and baby ARMY. He loves music and finding those deeper meanings.</p>
             </div>
           </div>
         </div>
