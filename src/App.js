@@ -48,7 +48,7 @@ function App() {
           <div className="card-body">
             <h3 className="card-title">Falling into BTS</h3>
             <p className="card-text">Join married 30-somethings Rocky and Emily as we start to descend down the BTS rabbit hole, diving deep into the Bangtan Universe, exploring themes, culture, and stories created by this infectiously charming and surprisingly profound Korean idol group. We’ll review all the media and music, from debut till today, including their variety and reality shows, interviews, albums, mixtapes, social media, live shows, and MVs. We’re curious about culture, music, art, and storytelling and we’re opening our minds to the unexpectedly intense and endlessly delightful experience of being ARMY. </p>
-            <button>Podcast links here</button>
+            <a className="badge" href="https://open.spotify.com/show/2wglhSf4DW5RHFCUD3dbx5">Spotify</a>
           </div>
         </div>
       </section>
@@ -73,12 +73,12 @@ function App() {
       <section className="podcast-episodes container" id="episodes">
         <div className="spacer"></div>
         <h2>Episodes</h2>
+        <div className="container">
+          <div id="buzzsprout-large-player-814801"></div>
+        </div>
       </section>
-      <footer>
-        <div>The Bangtan Epiphany Podcast &copy; 2020</div>
-      </footer>
     </div>
-  );
+  )
 }
 
 export default App;
