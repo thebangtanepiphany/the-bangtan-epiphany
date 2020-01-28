@@ -1,10 +1,13 @@
 import React, { useState } from "react";
-import twitter from "./twitter.svg"
-import twitterHover from "./twitter-hover.svg"
-import smicon from "./bangtan-icon-sm.png"
-import bangimg from "./bangtan-img.png"
-import em from "./emily.png"
-import rk from "./rocky.png"
+import spotify from "./img/spotify.png";
+import stitcher from "./img/stitcher.png";
+import apple from "./img/apple.svg";
+import twitter from "./img/twitter.svg"
+import twitterHover from "./img/twitter-hover.svg"
+import smicon from "./img/bangtan-icon-sm.png"
+import bangimg from "./img/bangtan-img.png"
+import em from "./img/emily.png"
+import rk from "./img/rocky.png"
 import "./App.css";
 
 function App() {
@@ -13,12 +16,12 @@ function App() {
     <div className="App">
       <header>
         <nav className="navbar fixed-top">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="/">
             <img className="" alt="The Bangtan Epiphany Podcast" src={smicon} />
           </a>
           <ul className="nav">
           <li className="nav-item">
-              <a className="nav-link active" href="#">Home</a>
+              <a className="nav-link active" href="/">Home</a>
             </li>
             <li className="nav-item">
               <a className="nav-link active" href="#about-us">About us</a>
@@ -48,7 +51,11 @@ function App() {
           <div className="card-body">
             <h3 className="card-title">Falling into BTS</h3>
             <p className="card-text">Join married 30-somethings Rocky and Emily as we start to descend down the BTS rabbit hole, diving deep into the Bangtan Universe, exploring themes, culture, and stories created by this infectiously charming and surprisingly profound Korean idol group. We’ll review all the media and music, from debut till today, including their variety and reality shows, interviews, albums, mixtapes, social media, live shows, and MVs. We’re curious about culture, music, art, and storytelling and we’re opening our minds to the unexpectedly intense and endlessly delightful experience of being ARMY. </p>
-            <a className="badge" href="https://open.spotify.com/show/2wglhSf4DW5RHFCUD3dbx5">Spotify</a>
+            <div className="podcast-badges">
+              <a className="badge" href="https://open.spotify.com/show/2wglhSf4DW5RHFCUD3dbx5"><img src={spotify} alt="Spotify"/></a>
+              <a className="badge" href="https://www.stitcher.com/podcast/the-bangtan-epiphany-podcast"><img src={stitcher} alt="Stitcher"/></a>
+              <a className="badge" href="https://podcasts.apple.com/us/podcast/the-bangtan-epiphany-podcast/id1495749770"><img src={apple} alt="apple"/></a>
+            </div>            
           </div>
         </div>
       </section>
@@ -59,7 +66,7 @@ function App() {
           <div className="card bg-light">
             <img className="card-img-top about-img img-fluid image-responsive" alt="Emily" src={em} />
             <div className="card-body">
-              <p className="card-text">Emily is a programmer, writer, and proud ARMY circa March 9, 2019 &#128521;. She loves to talk about culture, art, music... really just about anything. She may or may not be an immortal vampire.</p>
+              <p className="card-text">Emily is a programmer, writer, and proud ARMY circa March 9, 2019 <span role="img" aria-label="winking face">&#128521;</span>. She loves to talk about culture, art, music... really just about anything. She may or may not be an immortal vampire.</p>
             </div>
           </div>
           <div className="card bg-light">
